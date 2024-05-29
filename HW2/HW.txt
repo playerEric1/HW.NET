@@ -1,0 +1,7 @@
+1. StringBuilder is much faster than String when we need to modify the string for many times, such as in a for loop.
+2. Array
+3. Array.Sort(arrayWeNeedToSort);
+4. arr.Length
+5. Yes
+6. CopyTo must have a destination array and let you specify an index (if required) to the destination array.
+Clone return a new array.

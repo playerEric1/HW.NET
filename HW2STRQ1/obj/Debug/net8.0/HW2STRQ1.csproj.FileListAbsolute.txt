@@ -1,0 +1,14 @@
+/Users/luling/RiderProjects/CSharpDay5/HW2STRQ1/bin/Debug/net8.0/HW2STRQ1
+/Users/luling/RiderProjects/CSharpDay5/HW2STRQ1/bin/Debug/net8.0/HW2STRQ1.deps.json
+/Users/luling/RiderProjects/CSharpDay5/HW2STRQ1/bin/Debug/net8.0/HW2STRQ1.runtimeconfig.json
+/Users/luling/RiderProjects/CSharpDay5/HW2STRQ1/bin/Debug/net8.0/HW2STRQ1.dll
+/Users/luling/RiderProjects/CSharpDay5/HW2STRQ1/bin/Debug/net8.0/HW2STRQ1.pdb
+/Users/luling/RiderProjects/CSharpDay5/HW2STRQ1/obj/Debug/net8.0/HW2STRQ1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luling/RiderProjects/CSharpDay5/HW2STRQ1/obj/Debug/net8.0/HW2STRQ1.AssemblyInfoInputs.cache
+/Users/luling/RiderProjects/CSharpDay5/HW2STRQ1/obj/Debug/net8.0/HW2STRQ1.AssemblyInfo.cs
+/Users/luling/RiderProjects/CSharpDay5/HW2STRQ1/obj/Debug/net8.0/HW2STRQ1.csproj.CoreCompileInputs.cache
+/Users/luling/RiderProjects/CSharpDay5/HW2STRQ1/obj/Debug/net8.0/HW2STRQ1.dll
+/Users/luling/RiderProjects/CSharpDay5/HW2STRQ1/obj/Debug/net8.0/refint/HW2STRQ1.dll
+/Users/luling/RiderProjects/CSharpDay5/HW2STRQ1/obj/Debug/net8.0/HW2STRQ1.pdb
+/Users/luling/RiderProjects/CSharpDay5/HW2STRQ1/obj/Debug/net8.0/HW2STRQ1.genruntimeconfig.cache
+/Users/luling/RiderProjects/CSharpDay5/HW2STRQ1/obj/Debug/net8.0/ref/HW2STRQ1.dll

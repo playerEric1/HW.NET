@@ -1,0 +1,14 @@
+/Users/luling/RiderProjects/CSharpDay5/Exercise03/bin/Debug/net8.0/Exercise03
+/Users/luling/RiderProjects/CSharpDay5/Exercise03/bin/Debug/net8.0/Exercise03.deps.json
+/Users/luling/RiderProjects/CSharpDay5/Exercise03/bin/Debug/net8.0/Exercise03.runtimeconfig.json
+/Users/luling/RiderProjects/CSharpDay5/Exercise03/bin/Debug/net8.0/Exercise03.dll
+/Users/luling/RiderProjects/CSharpDay5/Exercise03/bin/Debug/net8.0/Exercise03.pdb
+/Users/luling/RiderProjects/CSharpDay5/Exercise03/obj/Debug/net8.0/Exercise03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luling/RiderProjects/CSharpDay5/Exercise03/obj/Debug/net8.0/Exercise03.AssemblyInfoInputs.cache
+/Users/luling/RiderProjects/CSharpDay5/Exercise03/obj/Debug/net8.0/Exercise03.AssemblyInfo.cs
+/Users/luling/RiderProjects/CSharpDay5/Exercise03/obj/Debug/net8.0/Exercise03.csproj.CoreCompileInputs.cache
+/Users/luling/RiderProjects/CSharpDay5/Exercise03/obj/Debug/net8.0/Exercise03.dll
+/Users/luling/RiderProjects/CSharpDay5/Exercise03/obj/Debug/net8.0/refint/Exercise03.dll
+/Users/luling/RiderProjects/CSharpDay5/Exercise03/obj/Debug/net8.0/Exercise03.pdb
+/Users/luling/RiderProjects/CSharpDay5/Exercise03/obj/Debug/net8.0/Exercise03.genruntimeconfig.cache
+/Users/luling/RiderProjects/CSharpDay5/Exercise03/obj/Debug/net8.0/ref/Exercise03.dll

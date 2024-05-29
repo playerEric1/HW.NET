@@ -1,0 +1,46 @@
+1.  string
+    double
+    int
+    enum
+    decimal
+    string
+    decimal
+    double
+    int
+    long
+    int
+
+2. Value Type
+   Stored on the stack.
+   Directly contains data.
+   Examples: int, float, bool, struct.
+
+   Reference Type
+   Stored on the heap.
+   Contains a reference (address) to the actual data.
+   Examples: class, interface, string, array.
+
+   Boxing is the process of converting a value type to a reference type.
+   Example: object obj = 123; // Boxing the integer 123 into an object.
+   Unboxing is the process of converting a reference type back to a value type.
+   Example: int num = (int)obj; // Unboxing the object back to an integer.
+3. Managed Resources are resources that are handled by the .NET runtime's garbage collector such as objects, arrays, strings.
+   Unmanaged Resource are resources that are not handled by the garbage collector such as file handles, database connections, unmanaged memory.
+4. It ensures efficient memory use, helps prevent memory leaks, and reduces the need for manual memory management.
+
+1. System.DivideByZeroException
+2. Infinity/-Infinity/NaN if 0/0
+3. it wraps around to the minimum value if you exceed the maximum or the maximum value if you go below the minimum
+4.  x = y++ y is incremented after its value is assigned to x
+    x = ++y y is incremented before its value is assigned to x
+5.  break: Exits the nearest enclosing loop or switch statement immediately.
+    continue: Skips the rest of the current iteration and moves to the next iteration of the loop.
+    return: Exits the current method and optionally returns a value to the caller.
+6.  Initialization: Executed once before the loop starts.
+    Condition: Evaluated before each iteration; if false, the loop exits.
+    Iterator: Executed after each iteration.
+    Only condition is required.
+7. = is Assignment and == is equality comparison
+8. Yes
+9. It is a discard pattern, which matches any value not matched by previous cases.
+10. IEnumerable

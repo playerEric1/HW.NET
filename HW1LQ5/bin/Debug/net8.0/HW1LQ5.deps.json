@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HW1LQ5/1.0.0": {
+        "runtime": {
+          "HW1LQ5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HW1LQ5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

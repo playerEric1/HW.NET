@@ -1,0 +1,14 @@
+/Users/luling/RiderProjects/CSharpDay5/HW1CONSOLEQ2/bin/Debug/net8.0/HW1CONSOLEQ2
+/Users/luling/RiderProjects/CSharpDay5/HW1CONSOLEQ2/bin/Debug/net8.0/HW1CONSOLEQ2.deps.json
+/Users/luling/RiderProjects/CSharpDay5/HW1CONSOLEQ2/bin/Debug/net8.0/HW1CONSOLEQ2.runtimeconfig.json
+/Users/luling/RiderProjects/CSharpDay5/HW1CONSOLEQ2/bin/Debug/net8.0/HW1CONSOLEQ2.dll
+/Users/luling/RiderProjects/CSharpDay5/HW1CONSOLEQ2/bin/Debug/net8.0/HW1CONSOLEQ2.pdb
+/Users/luling/RiderProjects/CSharpDay5/HW1CONSOLEQ2/obj/Debug/net8.0/HW1CONSOLEQ2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luling/RiderProjects/CSharpDay5/HW1CONSOLEQ2/obj/Debug/net8.0/HW1CONSOLEQ2.AssemblyInfoInputs.cache
+/Users/luling/RiderProjects/CSharpDay5/HW1CONSOLEQ2/obj/Debug/net8.0/HW1CONSOLEQ2.AssemblyInfo.cs
+/Users/luling/RiderProjects/CSharpDay5/HW1CONSOLEQ2/obj/Debug/net8.0/HW1CONSOLEQ2.csproj.CoreCompileInputs.cache
+/Users/luling/RiderProjects/CSharpDay5/HW1CONSOLEQ2/obj/Debug/net8.0/HW1CONSOLEQ2.dll
+/Users/luling/RiderProjects/CSharpDay5/HW1CONSOLEQ2/obj/Debug/net8.0/refint/HW1CONSOLEQ2.dll
+/Users/luling/RiderProjects/CSharpDay5/HW1CONSOLEQ2/obj/Debug/net8.0/HW1CONSOLEQ2.pdb
+/Users/luling/RiderProjects/CSharpDay5/HW1CONSOLEQ2/obj/Debug/net8.0/HW1CONSOLEQ2.genruntimeconfig.cache
+/Users/luling/RiderProjects/CSharpDay5/HW1CONSOLEQ2/obj/Debug/net8.0/ref/HW1CONSOLEQ2.dll

@@ -1,0 +1,14 @@
+/Users/luling/RiderProjects/CSharpDay5/HW2Q2/bin/Debug/net8.0/HW2Q2
+/Users/luling/RiderProjects/CSharpDay5/HW2Q2/bin/Debug/net8.0/HW2Q2.deps.json
+/Users/luling/RiderProjects/CSharpDay5/HW2Q2/bin/Debug/net8.0/HW2Q2.runtimeconfig.json
+/Users/luling/RiderProjects/CSharpDay5/HW2Q2/bin/Debug/net8.0/HW2Q2.dll
+/Users/luling/RiderProjects/CSharpDay5/HW2Q2/bin/Debug/net8.0/HW2Q2.pdb
+/Users/luling/RiderProjects/CSharpDay5/HW2Q2/obj/Debug/net8.0/HW2Q2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luling/RiderProjects/CSharpDay5/HW2Q2/obj/Debug/net8.0/HW2Q2.AssemblyInfoInputs.cache
+/Users/luling/RiderProjects/CSharpDay5/HW2Q2/obj/Debug/net8.0/HW2Q2.AssemblyInfo.cs
+/Users/luling/RiderProjects/CSharpDay5/HW2Q2/obj/Debug/net8.0/HW2Q2.csproj.CoreCompileInputs.cache
+/Users/luling/RiderProjects/CSharpDay5/HW2Q2/obj/Debug/net8.0/HW2Q2.dll
+/Users/luling/RiderProjects/CSharpDay5/HW2Q2/obj/Debug/net8.0/refint/HW2Q2.dll
+/Users/luling/RiderProjects/CSharpDay5/HW2Q2/obj/Debug/net8.0/HW2Q2.pdb
+/Users/luling/RiderProjects/CSharpDay5/HW2Q2/obj/Debug/net8.0/HW2Q2.genruntimeconfig.cache
+/Users/luling/RiderProjects/CSharpDay5/HW2Q2/obj/Debug/net8.0/ref/HW2Q2.dll

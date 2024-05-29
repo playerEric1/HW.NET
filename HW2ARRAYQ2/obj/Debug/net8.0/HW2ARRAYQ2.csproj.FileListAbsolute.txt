@@ -1,0 +1,14 @@
+/Users/luling/RiderProjects/CSharpDay5/HW2ARRAYQ2/bin/Debug/net8.0/HW2ARRAYQ2
+/Users/luling/RiderProjects/CSharpDay5/HW2ARRAYQ2/bin/Debug/net8.0/HW2ARRAYQ2.deps.json
+/Users/luling/RiderProjects/CSharpDay5/HW2ARRAYQ2/bin/Debug/net8.0/HW2ARRAYQ2.runtimeconfig.json
+/Users/luling/RiderProjects/CSharpDay5/HW2ARRAYQ2/bin/Debug/net8.0/HW2ARRAYQ2.dll
+/Users/luling/RiderProjects/CSharpDay5/HW2ARRAYQ2/bin/Debug/net8.0/HW2ARRAYQ2.pdb
+/Users/luling/RiderProjects/CSharpDay5/HW2ARRAYQ2/obj/Debug/net8.0/HW2ARRAYQ2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luling/RiderProjects/CSharpDay5/HW2ARRAYQ2/obj/Debug/net8.0/HW2ARRAYQ2.AssemblyInfoInputs.cache
+/Users/luling/RiderProjects/CSharpDay5/HW2ARRAYQ2/obj/Debug/net8.0/HW2ARRAYQ2.AssemblyInfo.cs
+/Users/luling/RiderProjects/CSharpDay5/HW2ARRAYQ2/obj/Debug/net8.0/HW2ARRAYQ2.csproj.CoreCompileInputs.cache
+/Users/luling/RiderProjects/CSharpDay5/HW2ARRAYQ2/obj/Debug/net8.0/HW2ARRAYQ2.dll
+/Users/luling/RiderProjects/CSharpDay5/HW2ARRAYQ2/obj/Debug/net8.0/refint/HW2ARRAYQ2.dll
+/Users/luling/RiderProjects/CSharpDay5/HW2ARRAYQ2/obj/Debug/net8.0/HW2ARRAYQ2.pdb
+/Users/luling/RiderProjects/CSharpDay5/HW2ARRAYQ2/obj/Debug/net8.0/HW2ARRAYQ2.genruntimeconfig.cache
+/Users/luling/RiderProjects/CSharpDay5/HW2ARRAYQ2/obj/Debug/net8.0/ref/HW2ARRAYQ2.dll
