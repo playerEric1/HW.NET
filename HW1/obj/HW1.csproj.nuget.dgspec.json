@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/luling/RiderProjects/CSharpDay5/HW1/HW1.csproj": {}
+    "/Users/luling/Downloads/HW.NET/HW1/HW1.csproj": {}
   },
   "projects": {
-    "/Users/luling/RiderProjects/CSharpDay5/HW1/HW1.csproj": {
+    "/Users/luling/Downloads/HW.NET/HW1/HW1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/luling/RiderProjects/CSharpDay5/HW1/HW1.csproj",
+        "projectUniqueName": "/Users/luling/Downloads/HW.NET/HW1/HW1.csproj",
         "projectName": "HW1",
-        "projectPath": "/Users/luling/RiderProjects/CSharpDay5/HW1/HW1.csproj",
+        "projectPath": "/Users/luling/Downloads/HW.NET/HW1/HW1.csproj",
         "packagesPath": "/Users/luling/.nuget/packages/",
-        "outputPath": "/Users/luling/RiderProjects/CSharpDay5/HW1/obj/",
+        "outputPath": "/Users/luling/Downloads/HW.NET/HW1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/luling/.nuget/NuGet/NuGet.Config"
@@ -20,6 +20,7 @@
           "net8.0"
         ],
         "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,6 +33,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/luling/.dotnet/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

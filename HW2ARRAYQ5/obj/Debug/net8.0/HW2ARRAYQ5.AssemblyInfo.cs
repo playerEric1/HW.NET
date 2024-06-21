@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HW2ARRAYQ5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11e47db6f49d9ee875b4ee26b57074007578c3b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("HW2ARRAYQ5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HW2ARRAYQ5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
