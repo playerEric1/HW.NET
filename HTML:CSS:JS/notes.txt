@@ -1,0 +1,74 @@
+HTML: Hyper Text Markup Language - Every webpage is an html document, and every element on that page is an html element
+Element: Any object on a web page
+CSS: Cascading Style Sheets - How to style your web pages
+JavaScript: A scripting programing langauge which is used to create functionality on our web pages
+URL: Uniform Resource Locator - A web address or website address that allows you to navigate to a specific website
+HTTP: HyperText Transfer Protocol - Works on Port 80
+HTTPS: HyperText Transfer Protocol Secure - Works on Port 443
+IP Address: Internet Protocol Address - 128.26.34.201 - Domain names like google.com amazon.com all these things are domain names and they simply just point to a DNS server
+DNS: Domain Name System will basically say google.com = 172.253.63.102
+Location addressing: IP geolocation is the mapping of an IP address to the geographic location of the internet from the connected device.
+Router: Acts as a gateway between your computer and your devices to your modem and it creates your LAN (Local Area Network)
+Modem: Typically provided by your ISP and it enables your LAN or your network to access the internet. 
+Switch: A device used to provide addiotional ports expanding the capability of the router (not necessary for a basic network) Connects different networks together.
+LAN: Local Area Network - Think your house wifi or apartment wifi 
+WAN: Wide Area Network - Think your apartment building or apartment complex 
+ISP: Internet Service Provider - so like Verizon or Comcast or AT&T or whoever
+
+How to connect to the internet:
+Input URL --> Router --> Modem --> ISP --> ISP's DNS/Google's DNS/Any DNS --> Once you have the IP address your packets will navigate to the target address
+
+Packets: TCP/IP protocol - Packets are just your data split up into tiny little chunks so that you can send them over and if any errors occur or any packets go missing
+you simply have to replace just that small packet instead of the entire data which is much more efficient and allows for faster load times 
+
+CA: Certificate Authority - Issue signed Certificates to websites or web servers to indicate that they are actually secure 
+SSL: Secure Socket Layer - Encrypts your data packets so that even if they are intercepted or a hacker gets their hands on them, they're useless to him because the data
+is encrypted, and only the website server has the private key which can decrypt it.
+
+HTTP uses something called the request/response pattern. There's different types of requests: [IMPORTANT]
+
+Get: Is used to retrieve data AKA Getting a resource
+
+Post: Is used to send data so for example if I am logging in somewhere a post request would be made to send my login information to the server. Post is used to create new resources.
+
+Put: Is used to update data, and its a complete update. If I have an account with username, password, fname, lname, age, job title and I want to update my job title, 
+I still have to send all the other information just not changed, and change what I want to update. Put will create a new resource if it cannot find its intended target resource.
+
+Patch: Is used to do a partial update. Which means that I can change just one field or variable in my account without having to resend all the other data like a Put request.
+
+Delete: Is used to delete a resource
+
+localhost = 127.0.0.1 --> This refers to your own machine
+
+Bootstrap Four tiers of Classes:
+
+xs --> For Mobile Phones (576px)
+sm --> For Tablets (768px)
+md --> For Desktops/Computers (992px)
+lg --> For larger Desktops/Computers (1200px)
+
+local storage:
+- Has no expiration date but user can clear browser data/cache and erase all of it
+- Can only be accessed via JavaScript
+- Storage limit 5 MB
+- Data is never transferred to the server
+- Data is stored in Plain text so it is not secure by design
+- limited to string data so data needs to be serialized | example: "ford focus":"Make: Ford, Model: Focus, Engine: ...."
+- can only be read on client-side
+- open for manipulation
+
+Session storage:
+- Stores data only for a session, data is erased when browser or browser tab are closed
+- data is never trasferred to a server
+- can only be read on client side
+- storage limit is 5-10MB
+- Opening multiple tabs/windows of the same website will create multiple session storages for each tab or window
+- data is limited to key/value pair
+
+Cookies:
+- Stores data that has to be sent back to the server with each subsequent XHR request (XHR - XML HTTP Requests) - XML old data format used for web development, nowadays mostly everyone uses JSON 
+- It has an expiration date and time which varies based on the type of cookie and the expiration duration can be set from either the client-side or server-side.
+- Cookies are primarily for server-side reading, they can be read on the client-side, but it is meant to be server-side reading while local storage and session storage are exclusively client-side reading.
+- Cookie size MUST be less than 4KB
+- Cookies can be made secure by setting the httpOnly flag as true for that cookie. This will prevent client-side access to it.
+- Cookies can be updated, local storage and session storage you can only create or delete. 

@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+footer {
+    background-color:azure;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+footer section {
+    flex: 1;
+    margin: 10px;
+}
+
+footer h3 {
+    margin-top: 0;
+    font-size: 1.2em;
+    color: #333;
+}
+
+footer ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+footer ul li {
+    margin: 5px 0;
+}
+
+footer ul li a {
+    text-decoration: none;
+    color: #0073e6;
+}
+
+footer ul li a:hover {
+    text-decoration: underline;
+}
+
+footer .caddress {
+    font-style: normal;
+    color: gray;
+}
+
+.copyright {
+    font-size: 0.9em;
+    color: #666;
+    text-align: center;
+    width: 100%;
+}
