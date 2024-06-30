@@ -1,0 +1,14 @@
+/Users/luling/RiderProjects/EShopAPI/Infrastructure/bin/Debug/net8.0/Infrastructure.deps.json
+/Users/luling/RiderProjects/EShopAPI/Infrastructure/bin/Debug/net8.0/Infrastructure.dll
+/Users/luling/RiderProjects/EShopAPI/Infrastructure/bin/Debug/net8.0/Infrastructure.pdb
+/Users/luling/RiderProjects/EShopAPI/Infrastructure/bin/Debug/net8.0/ApplicationCore.dll
+/Users/luling/RiderProjects/EShopAPI/Infrastructure/bin/Debug/net8.0/ApplicationCore.pdb
+/Users/luling/RiderProjects/EShopAPI/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/luling/RiderProjects/EShopAPI/Infrastructure/obj/Debug/net8.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luling/RiderProjects/EShopAPI/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/luling/RiderProjects/EShopAPI/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/luling/RiderProjects/EShopAPI/Infrastructure/obj/Debug/net8.0/Infrastr.15EFFBFE.Up2Date
+/Users/luling/RiderProjects/EShopAPI/Infrastructure/obj/Debug/net8.0/Infrastructure.dll
+/Users/luling/RiderProjects/EShopAPI/Infrastructure/obj/Debug/net8.0/refint/Infrastructure.dll
+/Users/luling/RiderProjects/EShopAPI/Infrastructure/obj/Debug/net8.0/Infrastructure.pdb
+/Users/luling/RiderProjects/EShopAPI/Infrastructure/obj/Debug/net8.0/ref/Infrastructure.dll

@@ -1,0 +1,14 @@
+/Users/luling/RiderProjects/EShopAPI/ApplicationCore/bin/Debug/net8.0/ApplicationCore.deps.json
+/Users/luling/RiderProjects/EShopAPI/ApplicationCore/bin/Debug/net8.0/ApplicationCore.dll
+/Users/luling/RiderProjects/EShopAPI/ApplicationCore/bin/Debug/net8.0/ApplicationCore.pdb
+/Users/luling/RiderProjects/EShopAPI/ApplicationCore/obj/Debug/net8.0/ApplicationCore.csproj.AssemblyReference.cache
+/Users/luling/RiderProjects/EShopAPI/ApplicationCore/obj/Debug/net8.0/ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luling/RiderProjects/EShopAPI/ApplicationCore/obj/Debug/net8.0/ApplicationCore.AssemblyInfoInputs.cache
+/Users/luling/RiderProjects/EShopAPI/ApplicationCore/obj/Debug/net8.0/ApplicationCore.AssemblyInfo.cs
+/Users/luling/RiderProjects/EShopAPI/ApplicationCore/obj/Debug/net8.0/ApplicationCore.csproj.CoreCompileInputs.cache
+/Users/luling/RiderProjects/EShopAPI/ApplicationCore/obj/Debug/net8.0/ApplicationCore.dll
+/Users/luling/RiderProjects/EShopAPI/ApplicationCore/obj/Debug/net8.0/refint/ApplicationCore.dll
+/Users/luling/RiderProjects/EShopAPI/ApplicationCore/obj/Debug/net8.0/ApplicationCore.pdb
+/Users/luling/RiderProjects/EShopAPI/ApplicationCore/obj/Debug/net8.0/ref/ApplicationCore.dll
+/Users/luling/RiderProjects/EShopAPI/ApplicationCore/bin/Debug/net8.0/ApplicationCore.runtimeconfig.json
+/Users/luling/RiderProjects/EShopAPI/ApplicationCore/obj/Debug/net8.0/ApplicationCore.genruntimeconfig.cache
