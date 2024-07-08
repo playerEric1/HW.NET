@@ -1,0 +1,12 @@
+/Users/luling/Downloads/dotnet-rabbitmq-main/Common/bin/Debug/net5.0/Rabbit.Common.deps.json
+/Users/luling/Downloads/dotnet-rabbitmq-main/Common/bin/Debug/net5.0/Rabbit.Common.dll
+/Users/luling/Downloads/dotnet-rabbitmq-main/Common/bin/Debug/net5.0/Rabbit.Common.pdb
+/Users/luling/Downloads/dotnet-rabbitmq-main/Common/obj/Debug/net5.0/Rabbit.Common.csproj.AssemblyReference.cache
+/Users/luling/Downloads/dotnet-rabbitmq-main/Common/obj/Debug/net5.0/Rabbit.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luling/Downloads/dotnet-rabbitmq-main/Common/obj/Debug/net5.0/Rabbit.Common.AssemblyInfoInputs.cache
+/Users/luling/Downloads/dotnet-rabbitmq-main/Common/obj/Debug/net5.0/Rabbit.Common.AssemblyInfo.cs
+/Users/luling/Downloads/dotnet-rabbitmq-main/Common/obj/Debug/net5.0/Rabbit.Common.csproj.CoreCompileInputs.cache
+/Users/luling/Downloads/dotnet-rabbitmq-main/Common/obj/Debug/net5.0/Rabbit.Common.dll
+/Users/luling/Downloads/dotnet-rabbitmq-main/Common/obj/Debug/net5.0/refint/Rabbit.Common.dll
+/Users/luling/Downloads/dotnet-rabbitmq-main/Common/obj/Debug/net5.0/Rabbit.Common.pdb
+/Users/luling/Downloads/dotnet-rabbitmq-main/Common/obj/Debug/net5.0/ref/Rabbit.Common.dll
